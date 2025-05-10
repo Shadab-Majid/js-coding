@@ -1,1 +1,2 @@
-console.log("shadab")
+console.log(a);
+var a;
