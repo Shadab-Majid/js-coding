@@ -57,7 +57,7 @@ function letBracesScoped() {
 /**
  * 
  * lecsical scope or evnviorment 
- * lexical environment hota hai ek chart jisye ye likha hot ahai ke apka partidcular function kin chizon ko access kar sakta hai and kinko nahi.
+ * lexical environment hota hai ek chart jisye ye likha hota hai ke apka particular function kin chizon ko access kar sakta hai and kinko nahi.
  * matlab it holds its scope and scope chain
  */
 
