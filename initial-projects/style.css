@@ -1,8 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 #center {
     width: 400px; 
     height: 200px;
     position: absolute;
     top: 50%;
+    left: 50%;
+    border: 1px solid black;
+    transform: translate(-50%, -50%);
+}
+
+#y-changing {
+    width: 400px; 
+    height: 200px;
+    position: absolute;
+    top: 100%;
     left: 50%;
     border: 1px solid black;
     transform: translate(-50%, -50%);

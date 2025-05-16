@@ -30,7 +30,7 @@
 /**
  * the meaning of async is running multiple function at a single time.
  * 
- * there is two type of stach main stack and side stack 
+ * there is two type of stach main stack and side stack(callback queue) 
  * 
  * the code which is present in the main stack is responsible for output and the code which present in side stack its running the code behind.
  * 

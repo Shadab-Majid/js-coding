@@ -11,12 +11,12 @@ var b;
  * 
  * And 
  * 
- * In execution its assining the values of created variables and execute the functions. 
+ * In execution its assining the values of created variables and execute the functions.
  * 
  * 
  * so thats why when in the second face its showing a = undefined because in the memory creation it assigned the 'var' a as undefined.
  * 
  * 
- * this works var only .
+ * this works var only.
  * 
  */

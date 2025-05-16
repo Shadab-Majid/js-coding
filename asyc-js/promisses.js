@@ -2,7 +2,7 @@
  * 
  * promises
  * 
- * The code which present in promises will run in fution which will have mainly two part 
+ * The code which present in promises will run in function which will have mainly two part 
  * 
  * either the code will run or give response(which called resolve) or it will reject not work(which we say reject).
  * eg: 

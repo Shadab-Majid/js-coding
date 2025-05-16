@@ -25,7 +25,7 @@
  *          XMLHttpRequest.
  * 
  *      What is Async js ?
- *   kai aar apka final code depended hota hai kisi aur ke server par, is case mein humein nahi pata hota ki answer uske server se ka laut kar ayega
+ *   kai baar apka final code depended hota hai kisi aur ke server par, is case mein humein nahi pata hota ki answer uske server se ka laut kar ayega
  *   to hum kya nahi kar skte is writing sync code, isse nipatne ke liye hm log async code lik dete hai taaki blocking naa ho and ja bhi answer aaye humare
  *  anser ke respect mein chalne wala code chal jaye.
  *  eg;
