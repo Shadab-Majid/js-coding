@@ -31,7 +31,7 @@ function getAge (users) {
         }
     }
     // console.log('35:', count);
-}
+} 
 getAge(users);
 
 const output_peole_age = users.reduce(function(acc, curr){
