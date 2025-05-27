@@ -17,7 +17,7 @@ setTimeout(function(){
 
 /**
  * 
- * first class func is the property available in js in which we can store the function in variable.
+ * first class func is the property available in js in where we can store the function in variable.
  * 
  */
 
